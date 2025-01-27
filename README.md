@@ -1,5 +1,7 @@
 # [TipCalculator](https://TipCalculator.dev)
 
+![TipCalculator](./favicon-512x512.png)
+
 ## What is TipCalculator?
 Our free online tip calculator is the ultimate digital tool for quick and accurate gratuity calculations. This smart tip calculator instantly determines the perfect tip amount based on your bill total and preferred tip percentage, making tipping effortless for restaurants, deliveries, and services worldwide. The tip calculator features an intuitive interface with automatic bill splitting, multi-currency support, and convenient rounding options, ensuring you maintain proper tipping etiquette with confidence in any situation.
 
